@@ -5,3 +5,30 @@
 width: 100%;
 height: 100%;
 }
+.container{
+    padding:5px;
+}
+.container header{
+    background:"f2f2f2";
+    border:1px solid;
+    padding:80px;
+}
+.left-sidebar{
+    width:50%;
+    text-align:left;
+}
+.button-group{
+    background:black;
+    display:inline;
+    padding:10px;
+    color:white;
+}
+.right-sidebar{
+    float:right;
+    width:50%;
+    transform:translate(-1%,-88%)
+}
+.left-sidebar1{
+    width:100%;
+    text-align:center;
+}
